@@ -10,7 +10,7 @@ website:
         text: Home
       - about.qmd
       - href: contactinfo.qmd
-        text: How to contact me
+        text: Where to contact me
 
 format:
   html:
