@@ -1,8 +1,8 @@
 ---
-title: "Belina's Quarto Website"
+title: "Belina's Websites"
 ---
 
-My name is Belina Jang and this is my Quarto Website.
+My name is Belina Jang and below are my websites.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
+[My GitHub](https://github.com/belinajang/)
+[My LinkedIn](https://www.linkedin.com/in/belinajang/)
