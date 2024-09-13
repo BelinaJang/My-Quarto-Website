@@ -11,7 +11,6 @@ website:
       - about.qmd
       - href: contactinfo.qmd
         text: How to contact me
-      - contact.qmd
 
 format:
   html:
