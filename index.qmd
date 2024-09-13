@@ -6,6 +6,3 @@ My name is Belina Jang and this is my Quarto Website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-```{r}
-1 + 1
-```
