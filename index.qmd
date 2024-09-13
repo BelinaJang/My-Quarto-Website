@@ -4,5 +4,5 @@ title: "Belina's Websites"
 
 My name is Belina Jang and below are my websites.
 
-Vist my [My GitHub](https://github.com/belinajang/) to check out my projects.\
-Connect with me on [My LinkedIn](https://www.linkedin.com/in/belinajang/)!
+Vist my [GitHub](https://github.com/belinajang/) to check out my projects.\
+Connect with me on [LinkedIn](https://www.linkedin.com/in/belinajang/)!
