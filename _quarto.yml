@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Quarto Website"
+  title: "Belina Jang"
   navbar:
     left:
       - href: index.qmd
