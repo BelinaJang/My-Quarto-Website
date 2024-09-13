@@ -2,8 +2,7 @@
 title: "Belina's Quarto Website"
 ---
 
-My Name is Belina Jang and this is my Quarto Website.
-I'm a MSc Biostatistics student at the Dalla Lana School of Public Health.
+My name is Belina Jang and this is my Quarto Website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
