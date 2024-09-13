@@ -9,7 +9,8 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - contactinfo.qmd
+      - href: contactinfo.qmd
+        text: How to contact me
       - contact.qmd
 
 format:
